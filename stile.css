@@ -1,0 +1,9 @@
+#contenido{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 250px;
+}
+body{
+    background-color: rgb(91, 157, 172);
+}
